@@ -1,0 +1,13 @@
+C:\BSU_Season5\Arduino\lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\BSU_Season5\Arduino\lab1\Lab1\bin\Debug\Lab1.exe
+C:\BSU_Season5\Arduino\lab1\Lab1\bin\Debug\Lab1.pdb
+C:\BSU_Season5\Arduino\lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\BSU_Season5\Arduino\lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\BSU_Season5\Arduino\lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\BSU_Season5\Arduino\lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\BSU_Season5\Arduino\lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\BSU_Season5\Arduino\lab1\Lab1\obj\Debug\Lab1.exe
+C:\BSU_Season5\Arduino\lab1\Lab1\obj\Debug\Lab1.pdb
+C:\BSU_Season5\Arduino\lab1\Lab1\bin\Debug\System.Management.dll
+C:\BSU_Season5\Arduino\lab1\Lab1\bin\Debug\System.Management.Instrumentation.dll
+C:\BSU_Season5\Arduino\lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
